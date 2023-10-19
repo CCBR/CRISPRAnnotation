@@ -1,5 +1,11 @@
-# CCBR1046 Project 
+# CRISPR Annotation Project 
 CRISPResso2 Annotation
+
+
+
+[![DOI](https://zenodo.org/badge/601288379.svg)](https://zenodo.org/doi/10.5281/zenodo.10022613)
+
+
 
 Download all files 0_Functions.R 1_AnnotateCRISPResso.R, 2_runannovar.sh, and 3_Annotation_render.Rmd and the script to run it all CRISPR_Annotate.sh
   
